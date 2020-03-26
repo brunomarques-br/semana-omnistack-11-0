@@ -4,6 +4,7 @@
 
 * Node.js ~ v13.9.0
 * Express.js ~ "^4.17.1"
+* Cors ~ ^2.8.5
 * NPM ~ 6.14.3
 * Sqlite3 ~ "^4.1.1" + Knex "^0.20.13"
 
@@ -14,7 +15,7 @@
 * Cadastro de ONG
 * Cadastrar novos casos
 * Deletar casos
-* Listar casos espec[ificos de uma ONG
+* Listar casos específicos de uma ONG
 * Listar todos os casos
 * Entrar em contato com a ONG
 
